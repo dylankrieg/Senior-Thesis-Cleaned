@@ -4,6 +4,7 @@ This repository contains an example system that enable a Universal Robotics UR5 
 Blocks are manipulated using a 3D printed gripper (MAGPIE) (https://github.com/correlllab/MAGPIE).
 The gripper has a palm-mounted Realsense D405 that is used for estimating block pose and generating a world model in PDDL.
 
+The system is modular, simple, and has potential for expansion and use in a variety of applications.
 
 # Dependencies:
 
