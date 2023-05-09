@@ -87,7 +87,7 @@ Numpy for Math Operations (https://numpy.org/install/):
 1. $ python3 -m pip install numpy
 
 
-Recommended Optional Libraries for Feature-Building:
+# Recommended Optional Libraries for Adding new Features:
 
 Robotics Toolbox for Python enables Kinematics for Manipulators (https://github.com/petercorke/robotics-toolbox-python)
 
