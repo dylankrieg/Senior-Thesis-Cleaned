@@ -1,5 +1,5 @@
 # Overview:
-This repository contains an example system that enable a Universal Robotics UR5 to assemble blocks procedurally based on a high-level task plan in a semi-structured world. All code is writted in Python with a ipython notebook interface. 
+This repository contains a system that enable a Universal Robotics UR5 to assemble blocks procedurally based on a high-level task plan in a semi-structured world. All code is writted in Python with a ipython notebook interface. 
 
 Blocks are manipulated using a 3D printed gripper (MAGPIE) (https://github.com/correlllab/MAGPIE).
 The gripper has a palm-mounted Realsense D405 that is used for estimating block pose and generating a world model in PDDL.
