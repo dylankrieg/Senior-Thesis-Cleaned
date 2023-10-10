@@ -13,5 +13,5 @@ The controller here is an interface that enables:
 
 Future work might include:
 - Integrating the Perception class/system with YOLOV8 perception in "Full-System" rather than relying on Webots segmentation.
-- Integrating the Py2PDDL-based task planning system in "Full System"
-- Using the robotics toolbox for python and spatial math as the kinematics backend since it has more features and is more robust. 
+- Integrating the Py2PDDL-based task planning system in "Full System".
+- Using the robotics toolbox for python and spatial math as the kinematics backend since it has more features and is more robust than what is here.
