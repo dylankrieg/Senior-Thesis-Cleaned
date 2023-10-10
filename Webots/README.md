@@ -5,7 +5,7 @@ The world simulates the canonical block world from classical AI. The intent is f
 I (Dylan) never incorporated the webots simulation with the full task-planning perception architecture in "Full-System".
 It could be ported. However, in ../TaskPlanner-Perception-Example there is a jupyter notebook that runs the task planner based on saved color, depth, and segmentation images generated from webots and generates a sequence of coordinates to move to. It is useful for testing system setup and could be intergrated with this controller. However, that task planning pipeline is not as mature as what is in ../Full-System and could be updated.
 
-I ran into issues using jupyter notebooks with Webots so it may need to be written in regular .py files which have worked with Webots.
+I ran into issues using jupyter notebooks with Webots so integrating the jupyter notebook with Webots may require using regular .py files which have worked with Webots.
 
 The controller here is an interface that enables:
 - Moving the UR5's end-effector to poses via MoveL and MoveJ primitives
